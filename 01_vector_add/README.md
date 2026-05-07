@@ -71,6 +71,7 @@ nvcc vector_add.cu -o vector_add
 h_c[0] = 0.000000
 h_c[10] = 30.000000
 ```
+![GPU Execution](Assets/output.png)
 ## Learning Notes
 
 - Each GPU thread computes one element.
