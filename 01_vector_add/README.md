@@ -51,12 +51,26 @@ nvcc vector_add.cu -o vector_add
 
 ---
 
-## Output
+---
 
+## Execution Environment
 
+| Component | Details |
+|---|---|
+| GPU | NVIDIA L4 |
+| NVIDIA Driver Version | 580.126.20 |
+| CUDA Runtime Version | 13.0 |
+| NVCC Version | CUDA 12.6 (V12.6.77) |
+| Operating Environment | Lightning AI GPU Instance |
 
 ---
 
+## Output
+
+```text
+h_c[0] = 0.000000
+h_c[10] = 30.000000
+```
 ## Learning Notes
 
 - Each GPU thread computes one element.
