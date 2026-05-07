@@ -39,18 +39,6 @@ Host memory allocation
 → Copy device → host
 → Free memory
 ```
-
----
-
-## Build and Run
-
-```bash
-nvcc vector_add.cu -o vector_add
-./vector_add
-```
-
----
-
 ---
 
 ## Execution Environment
