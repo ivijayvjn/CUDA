@@ -78,7 +78,7 @@ C Matrix:
 
 ## GPU Execution
 
-![GPU Execution](02.Matmul_naive/Assets/output.png)
+![GPU Execution](Assets/output.png)
 
 ---
 
