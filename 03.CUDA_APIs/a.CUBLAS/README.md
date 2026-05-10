@@ -78,7 +78,7 @@ Result Matrix C :
 
 ```
 
-![GPU-Execution](a.CUBLAS/Assets/output.png)
+![GPU-Execution](Assets/output.png)
 ------------------------------------------------------------------------------------
 
 ## Key Learning Notes
